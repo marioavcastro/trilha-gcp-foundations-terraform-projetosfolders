@@ -1,0 +1,1 @@
+https://console.cloud.google.com/billing/013192-059825-E0023E/reports?hl=pt-br&project=devops-375215
